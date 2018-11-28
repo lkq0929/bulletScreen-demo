@@ -1,7 +1,7 @@
 # bulletScreen-demo
 The bullet screen based on swoole websocket technology
 
-# demo运行方式：
+# 弹幕demo运行方式：
 
 - 安装swoole；
  
